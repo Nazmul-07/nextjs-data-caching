@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 2500,
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.5,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 3500,
+      "description": "A stylish smartwatch with fitness tracking, heart rate monitoring, and notifications.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.3,
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "price": 2800,
+      "description": "Comfortable and lightweight running shoes suitable for daily workouts and outdoor activities.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 1800,
+      "description": "A durable backpack with multiple compartments, perfect for college, travel, and everyday use.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.2,
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 4200,
+      "description": "A responsive mechanical keyboard with RGB lighting, tactile switches, and a durable design.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.8,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Sunglasses",
+      "category": "Fashion",
+      "price": 1200,
+      "description": "Modern UV-protection sunglasses with a lightweight frame, ideal for outdoor use.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.1,
+      "stock": 40
+    },
+    {
+      "id": 7,
+      "name": "The Psychology of Money",
+      "category": "Books",
+      "price": 550,
+      "description": "A fascinating book about money, wealth, greed, and happiness, written by Morgan Housel.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.8,
+      "stock": 35
+    },
+    {
+      "id": 8,
+      "name": "Atomic Habits",
+      "category": "Books",
+      "price": 650,
+      "description": "A practical guide to building good habits, breaking bad ones, and making small improvements every day by James Clear.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.9,
+      "stock": 40
+    },
+    {
+      "id": 9,
+      "name": "Rich Dad Poor Dad",
+      "category": "Books",
+      "price": 450,
+      "description": "A personal finance book by Robert Kiyosaki that explores financial education, investing, and wealth building.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.7,
+      "stock": 28
+    },
+    {
+      "id": 10,
+      "name": "The Alchemist",
+      "category": "Books",
+      "price": 400,
+      "description": "A bestselling novel by Paulo Coelho about a young shepherd's journey to discover his personal legend.",
+      "image": "https://images.unsplash.com/photo-1790456099884-4371937b5f63",
+      "rating": 4.6,
+      "stock": 32
+    },
+    {
+      "id": 11,
+      "name": "Deep Work",
+      "category": "Books",
+      "price": 600,
+      "description": "A productivity book by Cal Newport that explains how to focus deeply and produce valuable work without distractions.",
+      "image": "https://unsplash.com/photos/red-flowers-behind-wet-glass-RXU5hdk89f4",
+      "rating": 4.8,
+      "stock": 22
+    },
+    {
+      "id": 12,
+      "name": "Think and Grow Rich",
+      "category": "Books",
+      "price": 500,
+      "description": "A classic self-help book by Napoleon Hill about mindset, goal setting, persistence, and achieving success.",
+      "image": "https://unsplash.com/photos/female-skateboarder-in-air-friend-drinks-on-ledge-aJtXddGIhsk",
+      "rating": 4.5,
+      "stock": 30
+    }
+  ]
+}
